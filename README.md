@@ -7,7 +7,8 @@ nrcphp is a Python package for working with NRC devices. It provides a convenien
 You can install `nrcphp` using pip:
 
 ```shell
-pip install nrcphp
+composer require rebox98/nrcphp
+
 ```
 ## 🪧 Usage
 Here is an example of how to use nrcphp to connect to an NRC device and control the relays:

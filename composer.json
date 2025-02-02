@@ -1,5 +1,5 @@
 {
-    "name": "yourname/nrcphp",
+    "name": "rebox98/nrcphp",
     "description": "PHP library for controlling NrcDevice",
     "type": "library",
     "license": "MIT",
