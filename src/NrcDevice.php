@@ -1,5 +1,5 @@
 <?php
-
+namespace NrcDevice;
 class NrcDevice {
     private $ip;
     private $port;
